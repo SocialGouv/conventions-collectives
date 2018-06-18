@@ -1,0 +1,2276 @@
+[
+  {
+    "id": "0811Z",
+    "name":
+      " Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d ardoise"
+  },
+  {
+    "id": "0812Z",
+    "name":
+      "Exploitation de gravières et sablières, extraction d argiles et de kaolin"
+  },
+  {
+    "id": "1011Z",
+    "name": "Transformation et conservation de la viande de boucherie"
+  },
+  {
+    "id": "1012Z",
+    "name": "Transformation et conservation de la viande de volaille"
+  },
+  {
+    "id": "1013A",
+    "name": "Préparation industrielle de produits à base de viande"
+  },
+  {
+    "id": "1013B",
+    "name": "Charcuterie"
+  },
+  {
+    "id": "1020Z",
+    "name":
+      "Transformation et conservation de poisson, de crustacés et de mollusques"
+  },
+  {
+    "id": "1031Z",
+    "name": "Transformation et conservation de pommes de terre"
+  },
+  {
+    "id": "1032Z",
+    "name": "Préparation de jus de fruits et légumes"
+  },
+  {
+    "id": "1039A",
+    "name": "Autre transformation et conservation de légumes"
+  },
+  {
+    "id": "1039B",
+    "name": "Transformation et conservation de fruits"
+  },
+  {
+    "id": "1041B",
+    "name": "Fabrication d huiles et graisses raffinées"
+  },
+  {
+    "id": "1051A",
+    "name": "Fabrication de lait liquide et de produits frais"
+  },
+  {
+    "id": "1051C",
+    "name": "Fabrication de fromage"
+  },
+  {
+    "id": "1052Z",
+    "name": "Fabrication de glaces et sorbets"
+  },
+  {
+    "id": "1061A",
+    "name": "Meunerie"
+  },
+  {
+    "id": "1061B",
+    "name": "Autres activités du travail des grains"
+  },
+  {
+    "id": "1062Z",
+    "name": "Fabrication de produits amylacés"
+  },
+  {
+    "id": "1071A",
+    "name": "Fabrication industrielle de pain et de pâtisserie fraîche"
+  },
+  {
+    "id": "1071B",
+    "name": "Cuisson de produits de boulangerie"
+  },
+  {
+    "id": "1071C",
+    "name": "Boulangerie et boulangerie-pâtisserie"
+  },
+  {
+    "id": "1071D",
+    "name": "Pâtisserie"
+  },
+  {
+    "id": "1072Z",
+    "name": "Fabrication de biscuits, biscottes et pâtisseries de conservation"
+  },
+  {
+    "id": "1073Z",
+    "name": "Fabrication de pâtes alimentaires"
+  },
+  {
+    "id": "1081Z",
+    "name": "Fabrication de sucre"
+  },
+  {
+    "id": "1082Z",
+    "name": "Fabrication de cacao, chocolat et de produits de confiserie"
+  },
+  {
+    "id": "1083Z",
+    "name": "Transformation du thé et du café"
+  },
+  {
+    "id": "1084Z",
+    "name": "Fabrication de condiments et assaisonnements"
+  },
+  {
+    "id": "1085Z",
+    "name": "Fabrication de plats préparés"
+  },
+  {
+    "id": "1086Z",
+    "name": "Fabrication d aliments homogénéisés et diététiques"
+  },
+  {
+    "id": "1089Z",
+    "name": "Fabrication d autres produits alimentaires n.c.a."
+  },
+  {
+    "id": "1091Z",
+    "name": "Fabrication d aliments pour animaux de ferme"
+  },
+  {
+    "id": "1092Z",
+    "name": "Fabrication d aliments pour animaux de compagnie"
+  },
+  {
+    "id": "1101Z",
+    "name": "Production de boissons alcooliques distillées"
+  },
+  {
+    "id": "1102A",
+    "name": "Fabrication de vins effervescents"
+  },
+  {
+    "id": "1105Z",
+    "name": "Fabrication de bière"
+  },
+  {
+    "id": "1107A",
+    "name": "Industrie des eaux de table"
+  },
+  {
+    "id": "1107B",
+    "name": "Production de boissons rafraîchissantes"
+  },
+  {
+    "id": "1310Z",
+    "name": "Préparation de fibres textiles et filature"
+  },
+  {
+    "id": "1320Z",
+    "name": "Tissage"
+  },
+  {
+    "id": "1330Z",
+    "name": "Ennoblissement textile"
+  },
+  {
+    "id": "1392Z",
+    "name": "Fabrication d articles textiles, sauf habillement"
+  },
+  {
+    "id": "1393Z",
+    "name": "Fabrication de tapis et moquettes"
+  },
+  {
+    "id": "1395Z",
+    "name": "Fabrication de non-tissés, sauf habillement"
+  },
+  {
+    "id": "1396Z",
+    "name": "Fabrication d autres textiles techniques et industriels"
+  },
+  {
+    "id": "1399Z",
+    "name": "Fabrication d autres textiles n.c.a."
+  },
+  {
+    "id": "1412Z",
+    "name": "Fabrication de vÃªtements de travail"
+  },
+  {
+    "id": "1413Z",
+    "name": "Fabrication de vÃªtements de dessus"
+  },
+  {
+    "id": "1414Z",
+    "name": "Fabrication de vÃªtements de dessous"
+  },
+  {
+    "id": "1419Z",
+    "name": "Fabrication d autres vÃªtements et accessoires"
+  },
+  {
+    "id": "1431Z",
+    "name": "Fabrication d articles chaussants à mailles"
+  },
+  {
+    "id": "1439Z",
+    "name": "Fabrication d autres articles à mailles"
+  },
+  {
+    "id": "1511Z",
+    "name":
+      "ApprÃªt et tannage des cuirs ; préparation et teinture des fourrures"
+  },
+  {
+    "id": "1512Z",
+    "name": "Fabrication d articles de voyage, de maroquinerie et de sellerie"
+  },
+  {
+    "id": "1520Z",
+    "name": "Fabrication de chaussures"
+  },
+  {
+    "id": "1610A",
+    "name": "Sciage et rabotage du bois, hors imprégnation"
+  },
+  {
+    "id": "1610B",
+    "name": "Imprégnation du bois"
+  },
+  {
+    "id": "1621Z",
+    "name": "Fabrication de placage et de panneaux de bois"
+  },
+  {
+    "id": "1623Z",
+    "name": "Fabrication de charpentes et d autres menuiseries"
+  },
+  {
+    "id": "1624Z",
+    "name": "Fabrication d emballages en bois"
+  },
+  {
+    "id": "1629Z",
+    "name":
+      "Fabrication d objets divers en bois ; fabrication d objets en liège, vannerie et sparterie"
+  },
+  {
+    "id": "1711Z",
+    "name": "Fabrication de pâte à papier"
+  },
+  {
+    "id": "1712Z",
+    "name": "Fabrication de papier et de carton"
+  },
+  {
+    "id": "1721A",
+    "name": "Fabrication de carton ondulé"
+  },
+  {
+    "id": "1721B",
+    "name": "Fabrication de cartonnages"
+  },
+  {
+    "id": "1721C",
+    "name": "Fabrication d emballages en papier"
+  },
+  {
+    "id": "1722Z",
+    "name": "Fabrication d articles en papier à usage sanitaire ou domestique"
+  },
+  {
+    "id": "1723Z",
+    "name": "Fabrication d articles de papeterie"
+  },
+  {
+    "id": "1729Z",
+    "name": "Fabrication d autres articles en papier ou en carton"
+  },
+  {
+    "id": "1811Z",
+    "name": "Imprimerie de journaux"
+  },
+  {
+    "id": "1812Z",
+    "name": "Autre imprimerie (labeur)"
+  },
+  {
+    "id": "1813Z",
+    "name": "Activités de pré-presse"
+  },
+  {
+    "id": "1814Z",
+    "name": "Reliure et activités connexes"
+  },
+  {
+    "id": "1920Z",
+    "name": "Raffinage du pétrole"
+  },
+  {
+    "id": "2011Z",
+    "name": "Fabrication de gaz industriels"
+  },
+  {
+    "id": "2012Z",
+    "name": "Fabrication de colorants et de pigments"
+  },
+  {
+    "id": "2013A",
+    "name": "Enrichissement et retraitement de matières nucléaires"
+  },
+  {
+    "id": "2013B",
+    "name":
+      "Fabrication d autres produits chimiques inorganiques de base n.c.a."
+  },
+  {
+    "id": "2014Z",
+    "name": "Fabrication d autres produits chimiques organiques de base"
+  },
+  {
+    "id": "2015Z",
+    "name": "Fabrication de produits azotés et d engrais"
+  },
+  {
+    "id": "2016Z",
+    "name": "Fabrication de matières plastiques de base"
+  },
+  {
+    "id": "2017Z",
+    "name": "Fabrication de caoutchouc synthétique"
+  },
+  {
+    "id": "2020Z",
+    "name": "Fabrication de pesticides et d autres produits agrochimiques"
+  },
+  {
+    "id": "2030Z",
+    "name": "Fabrication de peintures, vernis, encres et mastics"
+  },
+  {
+    "id": "2041Z",
+    "name": "Fabrication de savons, détergents et produits d entretien"
+  },
+  {
+    "id": "2042Z",
+    "name": "Fabrication de parfums et de produits pour la toilette"
+  },
+  {
+    "id": "2051Z",
+    "name": "Fabrication de produits explosifs"
+  },
+  {
+    "id": "2052Z",
+    "name": "Fabrication de colles"
+  },
+  {
+    "id": "2053Z",
+    "name": "Fabrication d huiles essentielles"
+  },
+  {
+    "id": "2059Z",
+    "name": "Fabrication d autres produits chimiques n.c.a."
+  },
+  {
+    "id": "2110Z",
+    "name": "Fabrication de produits pharmaceutiques de base"
+  },
+  {
+    "id": "2120Z",
+    "name": "Fabrication de préparations pharmaceutiques"
+  },
+  {
+    "id": "2211Z",
+    "name": "Fabrication et rechapage de pneumatiques"
+  },
+  {
+    "id": "2219Z",
+    "name": "Fabrication d autres articles en caoutchouc"
+  },
+  {
+    "id": "2221Z",
+    "name":
+      "Fabrication de plaques, feuilles, tubes et profilés en matières plastiques"
+  },
+  {
+    "id": "2222Z",
+    "name": "Fabrication d emballages en matières plastiques"
+  },
+  {
+    "id": "2223Z",
+    "name": "Fabrication d éléments en matières plastiques pour la construction"
+  },
+  {
+    "id": "2229A",
+    "name": "Fabrication de pièces techniques à base de matières plastiques"
+  },
+  {
+    "id": "2229B",
+    "name":
+      "Fabrication de produits de consommation courante en matières plastiques"
+  },
+  {
+    "id": "2311Z",
+    "name": "Fabrication de verre plat"
+  },
+  {
+    "id": "2312Z",
+    "name": "Façonnage et transformation du verre plat"
+  },
+  {
+    "id": "2313Z",
+    "name": "Fabrication de verre creux"
+  },
+  {
+    "id": "2314Z",
+    "name": "Fabrication de fibres de verre"
+  },
+  {
+    "id": "2319Z",
+    "name":
+      "Fabrication et façonnage d autres articles en verre, y compris verre technique"
+  },
+  {
+    "id": "2320Z",
+    "name": "Fabrication de produits réfractaires"
+  },
+  {
+    "id": "2331Z",
+    "name": "Fabrication de carreaux en céramique"
+  },
+  {
+    "id": "2332Z",
+    "name":
+      "Fabrication de briques, tuiles et produits de construction, en terre cuite"
+  },
+  {
+    "id": "2341Z",
+    "name": "Fabrication d articles céramiques à usage domestique ou ornemental"
+  },
+  {
+    "id": "2342Z",
+    "name": "Fabrication d appareils sanitaires en céramique"
+  },
+  {
+    "id": "2351Z",
+    "name": "Fabrication de ciment"
+  },
+  {
+    "id": "2361Z",
+    "name": "Fabrication d éléments en béton pour la construction"
+  },
+  {
+    "id": "2362Z",
+    "name": "Fabrication d éléments en plâtre pour la construction"
+  },
+  {
+    "id": "2363Z",
+    "name": "Fabrication de béton prÃªt à l emploi"
+  },
+  {
+    "id": "2364Z",
+    "name": "Fabrication de mortiers et bétons secs"
+  },
+  {
+    "id": "2369Z",
+    "name": "Fabrication d autres ouvrages en béton, en ciment ou en plâtre"
+  },
+  {
+    "id": "2370Z",
+    "name": "Taille, façonnage et finissage de pierres"
+  },
+  {
+    "id": "2391Z",
+    "name": "Fabrication de produits abrasifs"
+  },
+  {
+    "id": "2399Z",
+    "name": "Fabrication d autres produits minéraux non métalliques n.c.a."
+  },
+  {
+    "id": "2410Z",
+    "name": "Sidérurgie"
+  },
+  {
+    "id": "2420Z",
+    "name":
+      "Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier"
+  },
+  {
+    "id": "2433Z",
+    "name": "Profilage à froid par formage ou pliage"
+  },
+  {
+    "id": "2434Z",
+    "name": "Tréfilage à froid"
+  },
+  {
+    "id": "2442Z",
+    "name": "Métallurgie de l aluminium"
+  },
+  {
+    "id": "2443Z",
+    "name": "Métallurgie du plomb, du zinc ou de l étain"
+  },
+  {
+    "id": "2444Z",
+    "name": "Métallurgie du cuivre"
+  },
+  {
+    "id": "2445Z",
+    "name": "Métallurgie des autres métaux non ferreux"
+  },
+  {
+    "id": "2451Z",
+    "name": "Fonderie de fonte"
+  },
+  {
+    "id": "2452Z",
+    "name": "Fonderie d acier"
+  },
+  {
+    "id": "2453Z",
+    "name": "Fonderie de métaux légers"
+  },
+  {
+    "id": "2454Z",
+    "name": "Fonderie d autres métaux non ferreux"
+  },
+  {
+    "id": "2511Z",
+    "name": "Fabrication de structures métalliques et de parties de structures"
+  },
+  {
+    "id": "2512Z",
+    "name": "Fabrication de portes et fenÃªtres en métal"
+  },
+  {
+    "id": "2521Z",
+    "name":
+      "Fabrication de radiateurs et de chaudières pour le chauffage central"
+  },
+  {
+    "id": "2529Z",
+    "name":
+      "Fabrication d autres réservoirs, citernes et conteneurs métalliques"
+  },
+  {
+    "id": "2530Z",
+    "name":
+      "Fabrication de générateurs de vapeur, à l exception des chaudières pour le chauffage central"
+  },
+  {
+    "id": "2540Z",
+    "name": "Fabrication d armes et de munitions"
+  },
+  {
+    "id": "2550A",
+    "name": "Forge, estampage, matriçage ; métallurgie des poudres"
+  },
+  {
+    "id": "2550B",
+    "name": "Découpage, emboutissage"
+  },
+  {
+    "id": "2561Z",
+    "name": "Traitement et revÃªtement des métaux"
+  },
+  {
+    "id": "2562A",
+    "name": "Décolletage"
+  },
+  {
+    "id": "2562B",
+    "name": "Mécanique industrielle"
+  },
+  {
+    "id": "2571Z",
+    "name": "Fabrication de coutellerie"
+  },
+  {
+    "id": "2572Z",
+    "name": "Fabrication de serrures et de ferrures"
+  },
+  {
+    "id": "2573A",
+    "name": "Fabrication de moules et modèles"
+  },
+  {
+    "id": "2573B",
+    "name": "Fabrication d autres outillages"
+  },
+  {
+    "id": "2592Z",
+    "name": "Fabrication d emballages métalliques légers"
+  },
+  {
+    "id": "2593Z",
+    "name":
+      "Fabrication d articles en fils métalliques, de chaînes et de ressorts"
+  },
+  {
+    "id": "2594Z",
+    "name": "Fabrication de vis et de boulons"
+  },
+  {
+    "id": "2599A",
+    "name": "Fabrication d articles métalliques ménagers"
+  },
+  {
+    "id": "2599B",
+    "name": "Fabrication d autres articles métalliques"
+  },
+  {
+    "id": "2611Z",
+    "name": "Fabrication de composants électroniques"
+  },
+  {
+    "id": "2612Z",
+    "name": "Fabrication de cartes électroniques assemblées"
+  },
+  {
+    "id": "2620Z",
+    "name": "Fabrication d ordinateurs et d équipements périphériques"
+  },
+  {
+    "id": "2630Z",
+    "name": "Fabrication d équipements de communication"
+  },
+  {
+    "id": "2640Z",
+    "name": "Fabrication de produits électroniques grand public"
+  },
+  {
+    "id": "2651A",
+    "name": "Fabrication d équipements d aide à la navigation"
+  },
+  {
+    "id": "2651B",
+    "name": "Fabrication d instrumentation scientifique et technique"
+  },
+  {
+    "id": "2652Z",
+    "name": "Horlogerie"
+  },
+  {
+    "id": "2660Z",
+    "name":
+      "Fabrication d équipements d irradiation médicale, d équipements électromédicaux et électrothérapeutiques"
+  },
+  {
+    "id": "2670Z",
+    "name": "Fabrication de matériels optique et photographique"
+  },
+  {
+    "id": "2711Z",
+    "name":
+      "Fabrication de moteurs, génératrices et transformateurs électriques"
+  },
+  {
+    "id": "2712Z",
+    "name": "Fabrication de matériel de distribution et de commande électrique"
+  },
+  {
+    "id": "2720Z",
+    "name": "Fabrication de piles et d accumulateurs électriques"
+  },
+  {
+    "id": "2731Z",
+    "name": "Fabrication de câbles de fibres optiques"
+  },
+  {
+    "id": "2732Z",
+    "name": "Fabrication d autres fils et câbles électroniques ou électriques"
+  },
+  {
+    "id": "2733Z",
+    "name": "Fabrication de matériel d installation électrique"
+  },
+  {
+    "id": "2740Z",
+    "name": "Fabrication d appareils d éclairage électrique"
+  },
+  {
+    "id": "2751Z",
+    "name": "Fabrication d appareils électroménagers"
+  },
+  {
+    "id": "2752Z",
+    "name": "Fabrication d appareils ménagers non électriques"
+  },
+  {
+    "id": "2790Z",
+    "name": "Fabrication d autres matériels électriques"
+  },
+  {
+    "id": "2811Z",
+    "name":
+      "Fabrication de moteurs et turbines, à l exception des moteurs d avions et de véhicules"
+  },
+  {
+    "id": "2812Z",
+    "name": "Fabrication d équipements hydrauliques et pneumatiques"
+  },
+  {
+    "id": "2813Z",
+    "name": "Fabrication d autres pompes et compresseurs"
+  },
+  {
+    "id": "2814Z",
+    "name": "Fabrication d autres articles de robinetterie"
+  },
+  {
+    "id": "2815Z",
+    "name": "Fabrication d engrenages et d organes mécaniques de transmission"
+  },
+  {
+    "id": "2821Z",
+    "name": "Fabrication de fours et brÃ»leurs"
+  },
+  {
+    "id": "2822Z",
+    "name": "Fabrication de matériel de levage et de manutention"
+  },
+  {
+    "id": "2823Z",
+    "name":
+      "Fabrication de machines et d équipements de bureau (à l exception des ordinateurs et équipements périphériques)"
+  },
+  {
+    "id": "2825Z",
+    "name": "Fabrication d équipements aérauliques et frigorifiques industriels"
+  },
+  {
+    "id": "2829A",
+    "name":
+      "Fabrication d équipements d emballage, de conditionnement et de pesage"
+  },
+  {
+    "id": "2829B",
+    "name": "Fabrication d autres machines d usage général"
+  },
+  {
+    "id": "2830Z",
+    "name": "Fabrication de machines agricoles et forestières"
+  },
+  {
+    "id": "2841Z",
+    "name": "Fabrication de machines-outils pour le travail des métaux"
+  },
+  {
+    "id": "2849Z",
+    "name": "Fabrication d autres machines-outils"
+  },
+  {
+    "id": "2891Z",
+    "name": "Fabrication de machines pour la métallurgie"
+  },
+  {
+    "id": "2892Z",
+    "name": "Fabrication de machines pour l extraction ou la construction"
+  },
+  {
+    "id": "2893Z",
+    "name": "Fabrication de machines pour l industrie agro-alimentaire"
+  },
+  {
+    "id": "2894Z",
+    "name": "Fabrication de machines pour les industries textiles"
+  },
+  {
+    "id": "2895Z",
+    "name": "Fabrication de machines pour les industries du papier et du carton"
+  },
+  {
+    "id": "2896Z",
+    "name":
+      "Fabrication de machines pour le travail du caoutchouc ou des plastiques"
+  },
+  {
+    "id": "2899A",
+    "name": "Fabrication de machines d imprimerie"
+  },
+  {
+    "id": "2899B",
+    "name": "Fabrication d autres machines spécialisées"
+  },
+  {
+    "id": "2910Z",
+    "name": "Construction de véhicules automobiles"
+  },
+  {
+    "id": "2920Z",
+    "name": "Fabrication de carrosseries et remorques"
+  },
+  {
+    "id": "2931Z",
+    "name": "Fabrication d équipements électriques et électroniques automobiles"
+  },
+  {
+    "id": "2932Z",
+    "name": "Fabrication d autres équipements automobiles"
+  },
+  {
+    "id": "3011Z",
+    "name": "Construction de navires et de structures flottantes"
+  },
+  {
+    "id": "3012Z",
+    "name": "Construction de bateaux de plaisance"
+  },
+  {
+    "id": "3020Z",
+    "name":
+      "Construction de locomotives et d autre matériel ferroviaire roulant"
+  },
+  {
+    "id": "3030Z",
+    "name": "Construction aéronautique et spatiale"
+  },
+  {
+    "id": "3040Z",
+    "name": "Construction de véhicules militaires de combat"
+  },
+  {
+    "id": "3091Z",
+    "name": "Fabrication de motocycles"
+  },
+  {
+    "id": "3092Z",
+    "name": "Fabrication de bicyclettes et de véhicules pour invalides"
+  },
+  {
+    "id": "3101Z",
+    "name": "Fabrication de meubles de bureau et de magasin"
+  },
+  {
+    "id": "3102Z",
+    "name": "Fabrication de meubles de cuisine"
+  },
+  {
+    "id": "3103Z",
+    "name": "Fabrication de matelas"
+  },
+  {
+    "id": "3109A",
+    "name": "Fabrication de sièges d ameublement d intérieur"
+  },
+  {
+    "id": "3109B",
+    "name":
+      "Fabrication d autres meubles et industries connexes de l ameublement"
+  },
+  {
+    "id": "3212Z",
+    "name": "Fabrication d articles de joaillerie et bijouterie"
+  },
+  {
+    "id": "3213Z",
+    "name":
+      "Fabrication d articles de bijouterie fantaisie et articles similaires"
+  },
+  {
+    "id": "3220Z",
+    "name": "Fabrication d instruments de musique"
+  },
+  {
+    "id": "3230Z",
+    "name": "Fabrication d articles de sport"
+  },
+  {
+    "id": "3240Z",
+    "name": "Fabrication de jeux et jouets"
+  },
+  {
+    "id": "3250A",
+    "name": "Fabrication de matériel médico-chirurgical et dentaire"
+  },
+  {
+    "id": "3250B",
+    "name": "Fabrication de lunettes"
+  },
+  {
+    "id": "3291Z",
+    "name": "Fabrication d articles de brosserie"
+  },
+  {
+    "id": "3299Z",
+    "name": "Autres activités manufacturières n.c.a."
+  },
+  {
+    "id": "3311Z",
+    "name": "Réparation d ouvrages en métaux"
+  },
+  {
+    "id": "3312Z",
+    "name": "Réparation de machines et équipements mécaniques"
+  },
+  {
+    "id": "3313Z",
+    "name": "Réparation de matériels électroniques et optiques"
+  },
+  {
+    "id": "3314Z",
+    "name": "Réparation d équipements électriques"
+  },
+  {
+    "id": "3315Z",
+    "name": "Réparation et maintenance navale"
+  },
+  {
+    "id": "3316Z",
+    "name": "Réparation et maintenance d aéronefs et d engins spatiaux"
+  },
+  {
+    "id": "3317Z",
+    "name": "Réparation et maintenance d autres équipements de transport"
+  },
+  {
+    "id": "3319Z",
+    "name": "Réparation d autres équipements"
+  },
+  {
+    "id": "3320A",
+    "name":
+      "Installation de structures métalliques, chaudronnées et de tuyauterie"
+  },
+  {
+    "id": "3320B",
+    "name": "Installation de machines et équipements mécaniques"
+  },
+  {
+    "id": "3320C",
+    "name":
+      "Conception d ensemble et assemblage sur site industriel d équipements de contrÃ´le des processus industriels"
+  },
+  {
+    "id": "3320D",
+    "name":
+      "Installation d équipements électriques, de matériels électroniques et optiques ou d autres matériels"
+  },
+  {
+    "id": "3530Z",
+    "name": "Production et distribution de vapeur et d air conditionné"
+  },
+  {
+    "id": "3600Z",
+    "name": "Captage, traitement et distribution d eau"
+  },
+  {
+    "id": "3700Z",
+    "name": "Collecte et traitement des eaux usées"
+  },
+  {
+    "id": "3811Z",
+    "name": "Collecte des déchets non dangereux"
+  },
+  {
+    "id": "3812Z",
+    "name": "Collecte des déchets dangereux"
+  },
+  {
+    "id": "3821Z",
+    "name": "Traitement et élimination des déchets non dangereux"
+  },
+  {
+    "id": "3822Z",
+    "name": "Traitement et élimination des déchets dangereux"
+  },
+  {
+    "id": "3831Z",
+    "name": "Démantèlement d épaves"
+  },
+  {
+    "id": "3832Z",
+    "name": "Récupération de déchets triés"
+  },
+  {
+    "id": "3900Z",
+    "name": "Dépollution et autres services de gestion des déchets"
+  },
+  {
+    "id": "4110A",
+    "name": "Promotion immobilière de logements"
+  },
+  {
+    "id": "4110C",
+    "name": "Promotion immobilière d autres bâtiments"
+  },
+  {
+    "id": "4110D",
+    "name": "Supports juridiques de programmes"
+  },
+  {
+    "id": "4120A",
+    "name": "Construction de maisons individuelles"
+  },
+  {
+    "id": "4120B",
+    "name": "Construction d autres bâtiments"
+  },
+  {
+    "id": "4211Z",
+    "name": "Construction de routes et autoroutes"
+  },
+  {
+    "id": "4212Z",
+    "name": "Construction de voies ferrées de surface et souterraines"
+  },
+  {
+    "id": "4213A",
+    "name": "Construction d ouvrages d art"
+  },
+  {
+    "id": "4221Z",
+    "name": "Construction de réseaux pour fluides"
+  },
+  {
+    "id": "4222Z",
+    "name": "Construction de réseaux électriques et de télécommunications"
+  },
+  {
+    "id": "4291Z",
+    "name": "Construction d ouvrages maritimes et fluviaux"
+  },
+  {
+    "id": "4299Z",
+    "name": "Construction d autres ouvrages de génie civil n.c.a."
+  },
+  {
+    "id": "4311Z",
+    "name": "Travaux de démolition"
+  },
+  {
+    "id": "4312A",
+    "name": "Travaux de terrassement courants et travaux préparatoires"
+  },
+  {
+    "id": "4312B",
+    "name": "Travaux de terrassement spécialisés ou de grande masse"
+  },
+  {
+    "id": "4313Z",
+    "name": "Forages et sondages"
+  },
+  {
+    "id": "4321A",
+    "name": "Travaux d installation électrique dans tous locaux"
+  },
+  {
+    "id": "4321B",
+    "name": "Travaux d installation électrique sur la voie publique"
+  },
+  {
+    "id": "4322A",
+    "name": "Travaux d installation d eau et de gaz en tous locaux"
+  },
+  {
+    "id": "4322B",
+    "name":
+      "Travaux d installation d équipements thermiques et de climatisation"
+  },
+  {
+    "id": "4329A",
+    "name": "Travaux d isolation"
+  },
+  {
+    "id": "4329B",
+    "name": "Autres travaux d installation n.c.a."
+  },
+  {
+    "id": "4331Z",
+    "name": "Travaux de plâtrerie"
+  },
+  {
+    "id": "4332A",
+    "name": "Travaux de menuiserie bois et pvc"
+  },
+  {
+    "id": "4332B",
+    "name": "Travaux de menuiserie métallique et serrurerie"
+  },
+  {
+    "id": "4332C",
+    "name": "Agencement de lieux de vente"
+  },
+  {
+    "id": "4333Z",
+    "name": "Travaux de revÃªtement des sols et des murs"
+  },
+  {
+    "id": "4334Z",
+    "name": "Travaux de peinture et vitrerie"
+  },
+  {
+    "id": "4339Z",
+    "name": "Autres travaux de finition"
+  },
+  {
+    "id": "4391A",
+    "name": "Travaux de charpente"
+  },
+  {
+    "id": "4391B",
+    "name": "Travaux de couverture par éléments"
+  },
+  {
+    "id": "4399A",
+    "name": "Travaux d étanchéification"
+  },
+  {
+    "id": "4399B",
+    "name": "Travaux de montage de structures métalliques"
+  },
+  {
+    "id": "4399C",
+    "name": "Travaux de maçonnerie générale et gros Åuvre de bâtiment"
+  },
+  {
+    "id": "4399D",
+    "name": "Autres travaux spécialisés de construction"
+  },
+  {
+    "id": "4399E",
+    "name": "Location avec opérateur de matériel de construction"
+  },
+  {
+    "id": "4511Z",
+    "name": "Commerce de voitures et de véhicules automobiles légers"
+  },
+  {
+    "id": "4519Z",
+    "name": "Commerce d autres véhicules automobiles"
+  },
+  {
+    "id": "4520A",
+    "name": "Entretien et réparation de véhicules automobiles légers"
+  },
+  {
+    "id": "4520B",
+    "name": "Entretien et réparation d autres véhicules automobiles"
+  },
+  {
+    "id": "4531Z",
+    "name": "Commerce de gros d équipements automobiles"
+  },
+  {
+    "id": "4532Z",
+    "name": "Commerce de détail d équipements automobiles"
+  },
+  {
+    "id": "4540Z",
+    "name": "Commerce et réparation de motocycles"
+  },
+  {
+    "id": "4612B",
+    "name":
+      "Autres intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques"
+  },
+  {
+    "id": "4613Z",
+    "name": "Intermédiaires du commerce en bois et matériaux de construction"
+  },
+  {
+    "id": "4614Z",
+    "name":
+      "Intermédiaires du commerce en machines, équipements industriels, navires et avions"
+  },
+  {
+    "id": "4616Z",
+    "name":
+      "Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir"
+  },
+  {
+    "id": "4617A",
+    "name": "Centrales d achat alimentaires"
+  },
+  {
+    "id": "4617B",
+    "name": "Autres intermédiaires du commerce en denrées, boissons et tabac"
+  },
+  {
+    "id": "4618Z",
+    "name":
+      "Intermédiaires spécialisés dans le commerce d autres produits spécifiques"
+  },
+  {
+    "id": "4619A",
+    "name": "Centrales d achat non alimentaires"
+  },
+  {
+    "id": "4619B",
+    "name": "Autres intermédiaires du commerce en produits divers"
+  },
+  {
+    "id": "4622Z",
+    "name": "Commerce de gros (commerce interentreprises) de fleurs et plantes"
+  },
+  {
+    "id": "4631Z",
+    "name": "Commerce de gros (commerce interentreprises) de fruits et légumes"
+  },
+  {
+    "id": "4632A",
+    "name":
+      "Commerce de gros (commerce interentreprises) de viandes de boucherie"
+  },
+  {
+    "id": "4632B",
+    "name":
+      "Commerce de gros (commerce interentreprises) de produits à base de viande"
+  },
+  {
+    "id": "4632C",
+    "name":
+      "Commerce de gros (commerce interentreprises) de volailles et gibier"
+  },
+  {
+    "id": "4633Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de produits laitiers, Åufs, huiles et matières grasses comestibles"
+  },
+  {
+    "id": "4634Z",
+    "name": "Commerce de gros (commerce interentreprises) de boissons"
+  },
+  {
+    "id": "4635Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de produits à base de tabac"
+  },
+  {
+    "id": "4636Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie"
+  },
+  {
+    "id": "4637Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de café, thé, cacao et épices"
+  },
+  {
+    "id": "4638A",
+    "name":
+      "Commerce de gros (commerce interentreprises) de poissons, crustacés et mollusques"
+  },
+  {
+    "id": "4638B",
+    "name":
+      "Commerce de gros (commerce interentreprises) alimentaire spécialisé divers"
+  },
+  {
+    "id": "4639A",
+    "name": "Commerce de gros (commerce interentreprises) de produits surgelés"
+  },
+  {
+    "id": "4639B",
+    "name":
+      "Commerce de gros (commerce interentreprises) alimentaire non spécialisé"
+  },
+  {
+    "id": "4641Z",
+    "name": "Commerce de gros (commerce interentreprises) de textiles"
+  },
+  {
+    "id": "4642Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) d habillement et de chaussures"
+  },
+  {
+    "id": "4643Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) d appareils électroménagers"
+  },
+  {
+    "id": "4644Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d entretien"
+  },
+  {
+    "id": "4645Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de parfumerie et de produits de beauté"
+  },
+  {
+    "id": "4646Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de produits pharmaceutiques"
+  },
+  {
+    "id": "4647Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de meubles, de tapis et d appareils d éclairage"
+  },
+  {
+    "id": "4648Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) d articles d horlogerie et de bijouterie"
+  },
+  {
+    "id": "4649Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) d autres biens domestiques"
+  },
+  {
+    "id": "4651Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) d ordinateurs, d équipements informatiques périphériques et de logiciels"
+  },
+  {
+    "id": "4652Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de composants et d équipements électroniques et de télécommunication"
+  },
+  {
+    "id": "4661Z",
+    "name": "Commerce de gros (commerce interentreprises) de matériel agricole"
+  },
+  {
+    "id": "4662Z",
+    "name": "Commerce de gros (commerce interentreprises) de machines-outils"
+  },
+  {
+    "id": "4663Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de machines pour l extraction, la construction et le génie civil"
+  },
+  {
+    "id": "4665Z",
+    "name": "Commerce de gros (commerce interentreprises) de mobilier de bureau"
+  },
+  {
+    "id": "4666Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) d autres machines et équipements de bureau"
+  },
+  {
+    "id": "4669A",
+    "name":
+      "Commerce de gros (commerce interentreprises) de matériel électrique"
+  },
+  {
+    "id": "4669B",
+    "name":
+      "Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers"
+  },
+  {
+    "id": "4669C",
+    "name":
+      "Commerce de gros (commerce interentreprises) de fournitures et équipements divers pour le commerce et les services"
+  },
+  {
+    "id": "4671Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) de combustibles et de produits annexes"
+  },
+  {
+    "id": "4672Z",
+    "name": "Commerce de gros (commerce interentreprises) de minerais et métaux"
+  },
+  {
+    "id": "4673A",
+    "name":
+      "Commerce de gros (commerce interentreprises) de bois et de matériaux de construction"
+  },
+  {
+    "id": "4673B",
+    "name":
+      "Commerce de gros (commerce interentreprises) d appareils sanitaires et de produits de décoration"
+  },
+  {
+    "id": "4674A",
+    "name": "Commerce de gros (commerce interentreprises) de quincaillerie"
+  },
+  {
+    "id": "4674B",
+    "name":
+      "Commerce de gros (commerce interentreprises) de fournitures pour la plomberie et le chauffage"
+  },
+  {
+    "id": "4675Z",
+    "name": "Commerce de gros (commerce interentreprises) de produits chimiques"
+  },
+  {
+    "id": "4676Z",
+    "name":
+      "Commerce de gros (commerce interentreprises) d autres produits intermédiaires"
+  },
+  {
+    "id": "4677Z",
+    "name": "Commerce de gros (commerce interentreprises) de déchets et débris"
+  },
+  {
+    "id": "4690Z",
+    "name": "Commerce de gros (commerce interentreprises) non spécialisé"
+  },
+  {
+    "id": "4711A",
+    "name": "Commerce de détail de produits surgelés"
+  },
+  {
+    "id": "4711B",
+    "name": "Commerce d alimentation générale"
+  },
+  {
+    "id": "4711C",
+    "name": "Supérettes"
+  },
+  {
+    "id": "4711D",
+    "name": "Supermarchés"
+  },
+  {
+    "id": "4711F",
+    "name": "Hypermarchés"
+  },
+  {
+    "id": "4719A",
+    "name": "Grands magasins"
+  },
+  {
+    "id": "4719B",
+    "name": "Autres commerces de détail en magasin non spécialisé"
+  },
+  {
+    "id": "4721Z",
+    "name": "Commerce de détail de fruits et légumes en magasin spécialisé"
+  },
+  {
+    "id": "4722Z",
+    "name":
+      "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé"
+  },
+  {
+    "id": "4723Z",
+    "name":
+      "Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé"
+  },
+  {
+    "id": "4724Z",
+    "name":
+      "Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé"
+  },
+  {
+    "id": "4725Z",
+    "name": "Commerce de détail de boissons en magasin spécialisé"
+  },
+  {
+    "id": "4726Z",
+    "name":
+      "Commerce de détail de produits à base de tabac en magasin spécialisé"
+  },
+  {
+    "id": "4729Z",
+    "name": "Autres commerces de détail alimentaires en magasin spécialisé"
+  },
+  {
+    "id": "4730Z",
+    "name": "Commerce de détail de carburants en magasin spécialisé"
+  },
+  {
+    "id": "4741Z",
+    "name":
+      "Commerce de détail d ordinateurs, d unités périphériques et de logiciels en magasin spécialisé"
+  },
+  {
+    "id": "4742Z",
+    "name":
+      "Commerce de détail de matériels de télécommunication en magasin spécialisé"
+  },
+  {
+    "id": "4743Z",
+    "name":
+      "Commerce de détail de matériels audio et vidéo en magasin spécialisé"
+  },
+  {
+    "id": "4751Z",
+    "name": "Commerce de détail de textiles en magasin spécialisé"
+  },
+  {
+    "id": "4752A",
+    "name":
+      "Commerce de détail de quincaillerie, peintures et verres en petites surfaces (moins de 400 mÂ²)"
+  },
+  {
+    "id": "4752B",
+    "name":
+      "Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 mÂ² et plus)"
+  },
+  {
+    "id": "4753Z",
+    "name":
+      "Commerce de détail de tapis, moquettes et revÃªtements de murs et de sols en magasin spécialisé"
+  },
+  {
+    "id": "4754Z",
+    "name":
+      "Commerce de détail d appareils électroménagers en magasin spécialisé"
+  },
+  {
+    "id": "4759A",
+    "name": "Commerce de détail de meubles"
+  },
+  {
+    "id": "4759B",
+    "name": "Commerce de détail d autres équipements du foyer"
+  },
+  {
+    "id": "4761Z",
+    "name": "Commerce de détail de livres en magasin spécialisé"
+  },
+  {
+    "id": "4762Z",
+    "name": "Commerce de détail de journaux et papeterie en magasin spécialisé"
+  },
+  {
+    "id": "4764Z",
+    "name": "Commerce de détail d articles de sport en magasin spécialisé"
+  },
+  {
+    "id": "4765Z",
+    "name": "Commerce de détail de jeux et jouets en magasin spécialisé"
+  },
+  {
+    "id": "4771Z",
+    "name": "Commerce de détail d habillement en magasin spécialisé"
+  },
+  {
+    "id": "4772A",
+    "name": "Commerce de détail de la chaussure"
+  },
+  {
+    "id": "4772B",
+    "name": "Commerce de détail de maroquinerie et d articles de voyage"
+  },
+  {
+    "id": "4773Z",
+    "name":
+      "Commerce de détail de produits pharmaceutiques en magasin spécialisé"
+  },
+  {
+    "id": "4774Z",
+    "name":
+      "Commerce de détail d articles médicaux et orthopédiques en magasin spécialisé"
+  },
+  {
+    "id": "4775Z",
+    "name":
+      "Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé"
+  },
+  {
+    "id": "4776Z",
+    "name":
+      "Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé"
+  },
+  {
+    "id": "4777Z",
+    "name":
+      "Commerce de détail d articles d horlogerie et de bijouterie en magasin spécialisé"
+  },
+  {
+    "id": "4778A",
+    "name": "Commerces de détail d optique"
+  },
+  {
+    "id": "4778B",
+    "name": "Commerces de détail de charbons et combustibles"
+  },
+  {
+    "id": "4778C",
+    "name": "Autres commerces de détail spécialisés divers"
+  },
+  {
+    "id": "4779Z",
+    "name": "Commerce de détail de biens d occasion en magasin"
+  },
+  {
+    "id": "4781Z",
+    "name": "Commerce de détail alimentaire sur éventaires et marchés"
+  },
+  {
+    "id": "4789Z",
+    "name": "Autres commerces de détail sur éventaires et marchés"
+  },
+  {
+    "id": "4791A",
+    "name": "Vente à distance sur catalogue général"
+  },
+  {
+    "id": "4791B",
+    "name": "Vente à distance sur catalogue spécialisé"
+  },
+  {
+    "id": "4799B",
+    "name":
+      "Vente par automates et autres commerces de détail hors magasin, éventaires ou marchés n.c.a."
+  },
+  {
+    "id": "4920Z",
+    "name": "Transports ferroviaires de fret"
+  },
+  {
+    "id": "4932Z",
+    "name": "Transports de voyageurs par taxis"
+  },
+  {
+    "id": "4939A",
+    "name": "Transports routiers réguliers de voyageurs"
+  },
+  {
+    "id": "4939B",
+    "name": "Autres transports routiers de voyageurs"
+  },
+  {
+    "id": "4939C",
+    "name": "Téléphériques et remontées mécaniques"
+  },
+  {
+    "id": "4941A",
+    "name": "Transports routiers de fret interurbains"
+  },
+  {
+    "id": "4941B",
+    "name": "Transports routiers de fret de proximité"
+  },
+  {
+    "id": "4941C",
+    "name": "Location de camions avec chauffeur"
+  },
+  {
+    "id": "4942Z",
+    "name": "Services de déménagement"
+  },
+  {
+    "id": "5010Z",
+    "name": "Transports maritimes et cÃ´tiers de passagers"
+  },
+  {
+    "id": "5020Z",
+    "name": "Transports maritimes et cÃ´tiers de fret"
+  },
+  {
+    "id": "5030Z",
+    "name": "Transports fluviaux de passagers"
+  },
+  {
+    "id": "5040Z",
+    "name": "Transports fluviaux de fret"
+  },
+  {
+    "id": "5110Z",
+    "name": "Transports aériens de passagers"
+  },
+  {
+    "id": "5121Z",
+    "name": "Transports aériens de fret"
+  },
+  {
+    "id": "5210A",
+    "name": "Entreposage et stockage frigorifique"
+  },
+  {
+    "id": "5210B",
+    "name": "Entreposage et stockage non frigorifique"
+  },
+  {
+    "id": "5221Z",
+    "name": "Services auxiliaires des transports terrestres"
+  },
+  {
+    "id": "5222Z",
+    "name": "Services auxiliaires des transports par eau"
+  },
+  {
+    "id": "5223Z",
+    "name": "Services auxiliaires des transports aériens"
+  },
+  {
+    "id": "5224A",
+    "name": "Manutention portuaire"
+  },
+  {
+    "id": "5224B",
+    "name": "Manutention non portuaire"
+  },
+  {
+    "id": "5229A",
+    "name": "Messagerie, fret express"
+  },
+  {
+    "id": "5229B",
+    "name": "Affrètement et organisation des transports"
+  },
+  {
+    "id": "5320Z",
+    "name": "Autres activités de poste et de courrier"
+  },
+  {
+    "id": "5510Z",
+    "name": "HÃ´tels et hébergement similaire"
+  },
+  {
+    "id": "5520Z",
+    "name": "Hébergement touristique et autre hébergement de courte durée"
+  },
+  {
+    "id": "5530Z",
+    "name":
+      "Terrains de camping et parcs pour caravanes ou véhicules de loisirs"
+  },
+  {
+    "id": "5590Z",
+    "name": "Autres hébergements"
+  },
+  {
+    "id": "5610A",
+    "name": "Restauration traditionnelle"
+  },
+  {
+    "id": "5610B",
+    "name": "Cafétérias et autres libres-services"
+  },
+  {
+    "id": "5610C",
+    "name": "Restauration de type rapide"
+  },
+  {
+    "id": "5621Z",
+    "name": "Services des traiteurs"
+  },
+  {
+    "id": "5629A",
+    "name": "Restauration collective sous contrat"
+  },
+  {
+    "id": "5629B",
+    "name": "Autres services de restauration n.c.a."
+  },
+  {
+    "id": "5630Z",
+    "name": "Débits de boissons"
+  },
+  {
+    "id": "5811Z",
+    "name": "Ãdition de livres"
+  },
+  {
+    "id": "5813Z",
+    "name": "Ãdition de journaux"
+  },
+  {
+    "id": "5814Z",
+    "name": "Ãdition de revues et périodiques"
+  },
+  {
+    "id": "5819Z",
+    "name": "Autres activités d édition"
+  },
+  {
+    "id": "5821Z",
+    "name": "Ãdition de jeux électroniques"
+  },
+  {
+    "id": "5829A",
+    "name": "Ãdition de logiciels système et de réseau"
+  },
+  {
+    "id": "5829B",
+    "name": "Edition de logiciels outils de développement et de langages"
+  },
+  {
+    "id": "5829C",
+    "name": "Edition de logiciels applicatifs"
+  },
+  {
+    "id": "5911A",
+    "name": "Production de films et de programmes pour la télévision"
+  },
+  {
+    "id": "5911B",
+    "name": "Production de films institutionnels et publicitaires"
+  },
+  {
+    "id": "5911C",
+    "name": "Production de films pour le cinéma"
+  },
+  {
+    "id": "5912Z",
+    "name":
+      "Post-production de films cinématographiques, de vidéo et de programmes de télévision"
+  },
+  {
+    "id": "5913A",
+    "name": "Distribution de films cinématographiques"
+  },
+  {
+    "id": "5914Z",
+    "name": "Projection de films cinématographiques"
+  },
+  {
+    "id": "5920Z",
+    "name": "Enregistrement sonore et édition musicale"
+  },
+  {
+    "id": "6020B",
+    "name": "Edition de chaînes thématiques"
+  },
+  {
+    "id": "6120Z",
+    "name": "Télécommunications sans fil"
+  },
+  {
+    "id": "6190Z",
+    "name": "Autres activités de télécommunication"
+  },
+  {
+    "id": "6201Z",
+    "name": "Programmation informatique"
+  },
+  {
+    "id": "6202A",
+    "name": "Conseil en systèmes et logiciels informatiques"
+  },
+  {
+    "id": "6202B",
+    "name": "Tierce maintenance de systèmes et d applications informatiques"
+  },
+  {
+    "id": "6203Z",
+    "name": "Gestion d installations informatiques"
+  },
+  {
+    "id": "6209Z",
+    "name": "Autres activités informatiques"
+  },
+  {
+    "id": "6311Z",
+    "name": "Traitement de données, hébergement et activités connexes"
+  },
+  {
+    "id": "6312Z",
+    "name": "Portails internet"
+  },
+  {
+    "id": "6391Z",
+    "name": "Activités des agences de presse"
+  },
+  {
+    "id": "6419Z",
+    "name": "Autres intermédiations monétaires"
+  },
+  {
+    "id": "6420Z",
+    "name": "Activités des sociétés holding"
+  },
+  {
+    "id": "6430Z",
+    "name": "Fonds de placement et entités financières similaires"
+  },
+  {
+    "id": "6491Z",
+    "name": "Crédit-bail"
+  },
+  {
+    "id": "6492Z",
+    "name": "Autre distribution de crédit"
+  },
+  {
+    "id": "6499Z",
+    "name":
+      "Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a."
+  },
+  {
+    "id": "6511Z",
+    "name": "Assurance vie"
+  },
+  {
+    "id": "6512Z",
+    "name": "Autres assurances"
+  },
+  {
+    "id": "6520Z",
+    "name": "Réassurance"
+  },
+  {
+    "id": "6612Z",
+    "name": "Courtage de valeurs mobilières et de marchandises"
+  },
+  {
+    "id": "6619A",
+    "name": "Supports juridiques de gestion de patrimoine mobilier"
+  },
+  {
+    "id": "6619B",
+    "name":
+      "Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, n.c.a."
+  },
+  {
+    "id": "6621Z",
+    "name": "évaluation des risques et dommages"
+  },
+  {
+    "id": "6622Z",
+    "name": "Activités des agents et courtiers d assurances"
+  },
+  {
+    "id": "6629Z",
+    "name": "Autres activités auxiliaires d assurance et de caisses de retraite"
+  },
+  {
+    "id": "6630Z",
+    "name": "Gestion de fonds"
+  },
+  {
+    "id": "6810Z",
+    "name": "Activités des marchands de biens immobiliers"
+  },
+  {
+    "id": "6820B",
+    "name": "Location de terrains et d autres biens immobiliers"
+  },
+  {
+    "id": "6831Z",
+    "name": "Agences immobilières"
+  },
+  {
+    "id": "6832A",
+    "name": "Administration d immeubles et autres biens immobiliers"
+  },
+  {
+    "id": "6910Z",
+    "name": "Activités juridiques"
+  },
+  {
+    "id": "6920Z",
+    "name": "Activités comptables"
+  },
+  {
+    "id": "7010Z",
+    "name": "Activités des sièges sociaux"
+  },
+  {
+    "id": "7021Z",
+    "name": "Conseil en relations publiques et communication"
+  },
+  {
+    "id": "7022Z",
+    "name": "Conseil pour les affaires et autres conseils de gestion"
+  },
+  {
+    "id": "7111Z",
+    "name": "Activités d architecture"
+  },
+  {
+    "id": "7112A",
+    "name": "Activité des géomètres"
+  },
+  {
+    "id": "7112B",
+    "name": "Ingénierie, études techniques"
+  },
+  {
+    "id": "7120A",
+    "name": "ContrÃ´le technique automobile"
+  },
+  {
+    "id": "7120B",
+    "name": "Analyses, essais et inspections techniques"
+  },
+  {
+    "id": "7211Z",
+    "name": "Recherche-développement en biotechnologie"
+  },
+  {
+    "id": "7311Z",
+    "name": "Activités des agences de publicité"
+  },
+  {
+    "id": "7312Z",
+    "name": "Régie publicitaire de médias"
+  },
+  {
+    "id": "7320Z",
+    "name": "études de marché et sondages"
+  },
+  {
+    "id": "7410Z",
+    "name": "Activités spécialisées de design"
+  },
+  {
+    "id": "7420Z",
+    "name": "Activités photographiques"
+  },
+  {
+    "id": "7430Z",
+    "name": "Traduction et interprétation"
+  },
+  {
+    "id": "7490A",
+    "name": "Activité des économistes de la construction"
+  },
+  {
+    "id": "7490B",
+    "name": "Activités spécialisées, scientifiques et techniques diverses"
+  },
+  {
+    "id": "7500Z",
+    "name": "Activités vétérinaires"
+  },
+  {
+    "id": "7711A",
+    "name":
+      "Location de courte durée de voitures et de véhicules automobiles légers"
+  },
+  {
+    "id": "7711B",
+    "name":
+      "Location de longue durée de voitures et de véhicules automobiles légers"
+  },
+  {
+    "id": "7712Z",
+    "name": "Location et location-bail de camions"
+  },
+  {
+    "id": "7721Z",
+    "name": "Location et location-bail d articles de loisirs et de sport"
+  },
+  {
+    "id": "7729Z",
+    "name": "Location et location-bail d autres biens personnels et domestiques"
+  },
+  {
+    "id": "7732Z",
+    "name":
+      "Location et location-bail de machines et équipements pour la construction"
+  },
+  {
+    "id": "7733Z",
+    "name":
+      "Location et location-bail de machines de bureau et de matériel informatique"
+  },
+  {
+    "id": "7739Z",
+    "name":
+      "Location et location-bail d autres machines, équipements et biens matériels n.c.a."
+  },
+  {
+    "id": "7740Z",
+    "name":
+      "Location-bail de propriété intellectuelle et de produits similaires, à l exception des Åuvres soumises à copyright"
+  },
+  {
+    "id": "7911Z",
+    "name": "Activités des agences de voyage"
+  },
+  {
+    "id": "7912Z",
+    "name": "Activités des voyagistes"
+  },
+  {
+    "id": "7990Z",
+    "name": "Autres services de réservation et activités connexes"
+  },
+  {
+    "id": "8010Z",
+    "name": "Activités de sécurité privée"
+  },
+  {
+    "id": "8020Z",
+    "name": "Activités liées aux systèmes de sécurité"
+  },
+  {
+    "id": "8110Z",
+    "name": "Activités combinées de soutien lié aux bâtiments"
+  },
+  {
+    "id": "8121Z",
+    "name": "Nettoyage courant des bâtiments"
+  },
+  {
+    "id": "8122Z",
+    "name":
+      "Autres activités de nettoyage des bâtiments et nettoyage industriel"
+  },
+  {
+    "id": "8129A",
+    "name": "Désinfection, désinsectisation, dératisation"
+  },
+  {
+    "id": "8129B",
+    "name": "Autres activités de nettoyage n.c.a."
+  },
+  {
+    "id": "8211Z",
+    "name": "Services administratifs combinés de bureau"
+  },
+  {
+    "id": "8219Z",
+    "name":
+      "Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau"
+  },
+  {
+    "id": "8220Z",
+    "name": "Activités de centres d appels"
+  },
+  {
+    "id": "8230Z",
+    "name": "Organisation de foires, salons professionnels et congrès"
+  },
+  {
+    "id": "8291Z",
+    "name":
+      "Activités des agences de recouvrement de factures et des sociétés d information financière sur la clientèle"
+  },
+  {
+    "id": "8292Z",
+    "name": "Activités de conditionnement"
+  },
+  {
+    "id": "8299Z",
+    "name": "Autres activités de soutien aux entreprises n.c.a."
+  },
+  {
+    "id": "8430B",
+    "name": "Gestion des retraites complémentaires"
+  },
+  {
+    "id": "8553Z",
+    "name": "Enseignement de la conduite"
+  },
+  {
+    "id": "8559A",
+    "name": "Formation continue d adultes"
+  },
+  {
+    "id": "8560Z",
+    "name": "Activités de soutien à l enseignement"
+  },
+  {
+    "id": "8621Z",
+    "name": "Activité des médecins généralistes"
+  },
+  {
+    "id": "8622A",
+    "name": "Activités de radiodiagnostic et de radiothérapie"
+  },
+  {
+    "id": "8622B",
+    "name": "Activités chirurgicales"
+  },
+  {
+    "id": "8622C",
+    "name": "Autres activités des médecins spécialistes"
+  },
+  {
+    "id": "8623Z",
+    "name": "Pratique dentaire"
+  },
+  {
+    "id": "8690A",
+    "name": "Ambulances"
+  },
+  {
+    "id": "8690B",
+    "name": "Laboratoires d analyses médicales"
+  },
+  {
+    "id": "8690E",
+    "name":
+      "Activités des professionnels de la rééducation, de l appareillage et des pédicures-podologues"
+  },
+  {
+    "id": "8690F",
+    "name": "Activités de santé humaine non classées ailleurs"
+  },
+  {
+    "id": "8730A",
+    "name": "Hébergement social pour personnes âgées"
+  },
+  {
+    "id": "9001Z",
+    "name": "Arts du spectacle vivant"
+  },
+  {
+    "id": "9002Z",
+    "name": "Activités de soutien au spectacle vivant"
+  },
+  {
+    "id": "9004Z",
+    "name": "Gestion de salles de spectacles"
+  },
+  {
+    "id": "9200Z",
+    "name": "Organisation de jeux de hasard et d argent"
+  },
+  {
+    "id": "9311Z",
+    "name": "Gestion d installations sportives"
+  },
+  {
+    "id": "9312Z",
+    "name": "Activités de clubs de sports"
+  },
+  {
+    "id": "9313Z",
+    "name": "Activités des centres de culture physique"
+  },
+  {
+    "id": "9319Z",
+    "name": "Autres activités liées au sport"
+  },
+  {
+    "id": "9321Z",
+    "name": "Activités des parcs d attractions et parcs à thèmes"
+  },
+  {
+    "id": "9511Z",
+    "name": "Réparation d ordinateurs et d équipements périphériques"
+  },
+  {
+    "id": "9512Z",
+    "name": "Réparation d équipements de communication"
+  },
+  {
+    "id": "9521Z",
+    "name": "Réparation de produits électroniques grand public"
+  },
+  {
+    "id": "9522Z",
+    "name":
+      "Réparation d appareils électroménagers et d équipements pour la maison et le jardin"
+  },
+  {
+    "id": "9523Z",
+    "name": "Réparation de chaussures et d articles en cuir"
+  },
+  {
+    "id": "9524Z",
+    "name": "Réparation de meubles et d équipements du foyer"
+  },
+  {
+    "id": "9525Z",
+    "name": "Réparation d articles d horlogerie et de bijouterie"
+  },
+  {
+    "id": "9529Z",
+    "name": "Réparation d autres biens personnels et domestiques"
+  },
+  {
+    "id": "9601A",
+    "name": "Blanchisserie-teinturerie de gros"
+  },
+  {
+    "id": "9601B",
+    "name": "Blanchisserie-teinturerie de détail"
+  },
+  {
+    "id": "9602A",
+    "name": "Coiffure"
+  },
+  {
+    "id": "9602B",
+    "name": "Soins de beauté"
+  },
+  {
+    "id": "9603Z",
+    "name": "Services funéraires"
+  },
+  {
+    "id": "9604Z",
+    "name": "Entretien corporel"
+  }
+]

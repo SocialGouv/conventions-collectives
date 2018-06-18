@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "00087",
+    "name": "Industries de carrières et de matériaux ouvriers"
+  },
+  {
+    "id": "00135",
+    "name": "Industries de carrières et de matériaux ETAM"
+  },
+  {
+    "id": "00211",
+    "name": "Industries de carrières et de matériaux cadres"
+  },
+  {
+    "id": "01702",
+    "name": "Travaux publics ouvriers"
+  },
+  {
+    "id": "00398",
+    "name": "Négoce des matériaux de construction ouvriers"
+  },
+  {
+    "id": "02614",
+    "name": "Travaux publics ETAM"
+  },
+  {
+    "id": "01558",
+    "name": "Industries céramiques"
+  },
+  {
+    "id": "01597",
+    "name": "Bâtiment ouvriers plus de 10 Salariés"
+  },
+  {
+    "id": "01534",
+    "name": "Industrie et commerce en gros des viandes"
+  },
+  {
+    "id": "01586",
+    "name": "Industrie de la salaison charcuterie en gros"
+  },
+  {
+    "id": "01938",
+    "name": "Industries transformation volaille"
+  },
+  {
+    "id": "00112",
+    "name": "Industrie laitière"
+  },
+  {
+    "id": "00992",
+    "name": "Boucherie"
+  },
+  {
+    "id": "01396",
+    "name": "Industries des produits alimentaires élaborés"
+  },
+  {
+    "id": "00953",
+    "name": "Charcuterie de détail"
+  },
+  {
+    "id": "01589",
+    "name": "Mareyeurs expéditeurs"
+  },
+  {
+    "id": "03109",
+    "name": "Cinq branches - Industries alimentaires diverses"
+  },
+  {
+    "id": "01747",
+    "name": "Boulangerie et pâtisserie industrielle"
+  },
+  {
+    "id": "01501",
+    "name": "Restauration rapide"
+  },
+  {
+    "id": "00493",
+    "name": "Vins cidres jus de fruits sirops spiritueux"
+  },
+  {
+    "id": "01405",
+    "name": "Expédition exportation de fruits et légumes"
+  },
+  {
+    "id": "00573",
+    "name": "Commerces de gros"
+  },
+  {
+    "id": "02728",
+    "name": "Sucreries sucreries-distilleries raffineries"
+  },
+  {
+    "id": "01286",
+    "name": "Détaillants de confiserie chocolaterie biscuiterie"
+  },
+  {
+    "id": "00044",
+    "name": "Industries chimiques"
+  },
+  {
+    "id": "01505",
+    "name": "Commerce de détail fruits légumes épicerie"
+  },
+  {
+    "id": "00016",
+    "name": "Transports routiers"
+  },
+  {
+    "id": "01267",
+    "name": "Pâtisserie"
+  },
+  {
+    "id": "01979",
+    "name": "Hôtels Cafés Restaurants"
+  },
+  {
+    "id": "01930",
+    "name": "Meunerie"
+  },
+  {
+    "id": "02216",
+    "name": "Commerce détail et gros à prédominance alimentaire"
+  },
+  {
+    "id": "00843",
+    "name": "Boulangeries pâtisseries artisanales"
+  },
+  {
+    "id": "01987",
+    "name": "Industrie des pâtes alimentaires"
+  },
+  {
+    "id": "01624",
+    "name": "Commerces de gros confiserie chocolaterie"
+  },
+  {
+    "id": "00176",
+    "name": "Industrie pharmaceutique"
+  },
+  {
+    "id": "01555",
+    "name": "Fabrication commerce produits pharmaceutiques"
+  },
+  {
+    "id": "02075",
+    "name": "Transformation commerce Oeufs et produits d'Oeufs"
+  },
+  {
+    "id": "01077",
+    "name": "Négoce et industrie des produits du sol et engrais"
+  },
+  {
+    "id": "01513",
+    "name": "Production eaux boissons sans alcool bière"
+  },
+  {
+    "id": "00043",
+    "name": "Commission courtage importation exportation"
+  },
+  {
+    "id": "00637",
+    "name": "Industries et commerce de la récupération"
+  },
+  {
+    "id": "01384",
+    "name": "Vins de Champagne"
+  },
+  {
+    "id": "02104",
+    "name": "Thermalisme"
+  },
+  {
+    "id": "00018",
+    "name": "Industries textiles"
+  },
+  {
+    "id": "00247",
+    "name": "Industries de l'habillement"
+  },
+  {
+    "id": "00614",
+    "name": "Industrie de la sérigraphie"
+  },
+  {
+    "id": "01483",
+    "name": "Commerce de détail habillement textiles"
+  },
+  {
+    "id": "02002",
+    "name": "Blanchisserie interrégionale"
+  },
+  {
+    "id": "01411",
+    "name": "Fabrication de l'ameublement"
+  },
+  {
+    "id": "01423",
+    "name": "Navigation de plaisance"
+  },
+  {
+    "id": "01618",
+    "name": "Camping"
+  },
+  {
+    "id": "01761",
+    "name": "Commerce de gros des tissus tapis linge de maison"
+  },
+  {
+    "id": "01387",
+    "name": "Métallurgie Flandres Douaisis"
+  },
+  {
+    "id": "01942",
+    "name": "Textiles artificiels et synthétiques"
+  },
+  {
+    "id": "01592",
+    "name": "Métallurgie Nord Valenciennois Cambrésis"
+  },
+  {
+    "id": "01495",
+    "name": "Transformation des papiers cartons OETAM"
+  },
+  {
+    "id": "02615",
+    "name": "Métallurgie Pyrénées Atlantiques et Seignanx"
+  },
+  {
+    "id": "00650",
+    "name": "Métallurgie cadres"
+  },
+  {
+    "id": "01967",
+    "name": "Métallurgie Bas Rhin"
+  },
+  {
+    "id": "00303",
+    "name": "Couture Région parisienne"
+  },
+  {
+    "id": "00675",
+    "name": "Succursales de vente au détail d'habillement"
+  },
+  {
+    "id": "00567",
+    "name": "Bijouterie joaillerie orfèvrerie"
+  },
+  {
+    "id": "00500",
+    "name": "Commerces de gros de l'habillement, de la chaussure et du jouet"
+  },
+  {
+    "id": "00207",
+    "name": "Industrie des cuirs et peaux"
+  },
+  {
+    "id": "00700",
+    "name": "Production des papiers cartons cadres"
+  },
+  {
+    "id": "02528",
+    "name": "Industries de la maroquinerie"
+  },
+  {
+    "id": "01580",
+    "name": "Industrie de la chaussure"
+  },
+  {
+    "id": "01517",
+    "name": "Commerces de détail non alimentaire"
+  },
+  {
+    "id": "00045",
+    "name": "Caoutchouc"
+  },
+  {
+    "id": "00468",
+    "name": "Succursales du commerce de détail en chaussure"
+  },
+  {
+    "id": "01561",
+    "name": "Cordonnerie multiservice"
+  },
+  {
+    "id": "00158",
+    "name": "Travail mécanique du bois scieries négoce"
+  },
+  {
+    "id": "00172",
+    "name": "Industrie bois de pin maritime forÃªt de Gascogne"
+  },
+  {
+    "id": "01596",
+    "name": "Bâtiment ouvriers jusqu'à 10 Salariés"
+  },
+  {
+    "id": "02609",
+    "name": "Bâtiment ETAM"
+  },
+  {
+    "id": "02089",
+    "name": "Industrie des panneaux à base de bois"
+  },
+  {
+    "id": "00292",
+    "name": "Plasturgie"
+  },
+  {
+    "id": "00083",
+    "name": "Menuiseries charpentes portes planes"
+  },
+  {
+    "id": "02420",
+    "name": "Bâtiment cadres"
+  },
+  {
+    "id": "01902",
+    "name": "Métallurgie Maine et Loire"
+  },
+  {
+    "id": "01492",
+    "name": "Production des papiers cartons OETAM"
+  },
+  {
+    "id": "00707",
+    "name": "Transformation des papiers cartons cadres"
+  },
+  {
+    "id": "00489",
+    "name": "Industries du cartonnage"
+  },
+  {
+    "id": "00184",
+    "name": "Imprimeries de labeur"
+  },
+  {
+    "id": "00714",
+    "name": "Métallurgie Moselle"
+  },
+  {
+    "id": "00802",
+    "name": "Commerce de gros des papiers cartons OETAM"
+  },
+  {
+    "id": "00998",
+    "name": "Exploitation d'équipements thermiques OETAM"
+  },
+  {
+    "id": "00214",
+    "name": "Presse Région parisienne ouvriers"
+  },
+  {
+    "id": "00598",
+    "name": "Presse quotidienne régionale ouvriers"
+  },
+  {
+    "id": "00698",
+    "name": "Presse quotidienne régionale employés"
+  },
+  {
+    "id": "01480",
+    "name": "Journalistes"
+  },
+  {
+    "id": "01895",
+    "name": "Presse quotidienne régionale cadres"
+  },
+  {
+    "id": "00086",
+    "name": "Publicité"
+  },
+  {
+    "id": "01486",
+    "name": "Bureaux d'études techniques SYNTEC"
+  },
+  {
+    "id": "00706",
+    "name": "Reprographie"
+  },
+  {
+    "id": "01388",
+    "name": "Industrie du pétrole"
+  },
+  {
+    "id": "02266",
+    "name": "Métallurgie Mayenne"
+  },
+  {
+    "id": "00054",
+    "name": "Métallurgie Région Parisienne"
+  },
+  {
+    "id": "01867",
+    "name": "Métallurgie Drome Ardèche"
+  },
+  {
+    "id": "02409",
+    "name": "Travaux publics cadres"
+  },
+  {
+    "id": "01578",
+    "name": "Métallurgie Loire Yssingeaux"
+  },
+  {
+    "id": "01315",
+    "name": "Métallurgie Haute Marne Meuse"
+  },
+  {
+    "id": "01059",
+    "name": "Métallurgie Midi Pyrénées"
+  },
+  {
+    "id": "01369",
+    "name": "Métallurgie Loire Atlantique"
+  },
+  {
+    "id": "02221",
+    "name": "Métallurgie Isère Hautes Alpes"
+  },
+  {
+    "id": "00669",
+    "name": "Industries de fabrication mécanique du verre"
+  },
+  {
+    "id": "01499",
+    "name": "Miroiterie transformation négoce du verre"
+  },
+  {
+    "id": "00911",
+    "name": "Métallurgie Seine et Marne"
+  },
+  {
+    "id": "01821",
+    "name": "Fabrication du verre à la main"
+  },
+  {
+    "id": "02306",
+    "name": "Métiers du verre"
+  },
+  {
+    "id": "01431",
+    "name": "Optique-lunetterie de détail"
+  },
+  {
+    "id": "01170",
+    "name": "Industrie des tuiles et briques"
+  },
+  {
+    "id": "02700",
+    "name": "Métallurgie Oise"
+  },
+  {
+    "id": "00899",
+    "name": "Métallurgie Marne"
+  },
+  {
+    "id": "00833",
+    "name": "Industrie fabrication des ciments ETAM"
+  },
+  {
+    "id": "00363",
+    "name": "Industrie fabrication des ciments cadres"
+  },
+  {
+    "id": "00832",
+    "name": "Industrie fabrication des ciments ouvriers"
+  },
+  {
+    "id": "00533",
+    "name": "Négoce des matériaux de construction EAM"
+  },
+  {
+    "id": "00759",
+    "name": "Pompes funèbres"
+  },
+  {
+    "id": "00984",
+    "name": "Métallurgie Eure et Loir"
+  },
+  {
+    "id": "01912",
+    "name": "Métallurgie Haut Rhin"
+  },
+  {
+    "id": "00937",
+    "name": "Métallurgie Creuse Haute Vienne"
+  },
+  {
+    "id": "01732",
+    "name": "Métallurgie Yonne"
+  },
+  {
+    "id": "02344",
+    "name": "Sidérurgie"
+  },
+  {
+    "id": "01564",
+    "name": "Métallurgie Saône et Loire"
+  },
+  {
+    "id": "00822",
+    "name": "Métallurgie Savoie"
+  },
+  {
+    "id": "01813",
+    "name": "Métallurgie Nord Maubeuge"
+  },
+  {
+    "id": "02542",
+    "name": "Métallurgie Aisne"
+  },
+  {
+    "id": "00898",
+    "name": "Métallurgie Allier"
+  },
+  {
+    "id": "01885",
+    "name": "Métallurgie Cote d'or"
+  },
+  {
+    "id": "01628",
+    "name": "Métallurgie Deux Sèvres"
+  },
+  {
+    "id": "01604",
+    "name": "Métallurgie Seine Maritime Rouen Dieppe"
+  },
+  {
+    "id": "02992",
+    "name": "Métallurgie Indre et Loire"
+  },
+  {
+    "id": "01159",
+    "name": "Métallurgie Nièvre"
+  },
+  {
+    "id": "00827",
+    "name": "Métallurgie Ardennes"
+  },
+  {
+    "id": "01635",
+    "name": "Métallurgie Gironde Landes"
+  },
+  {
+    "id": "01365",
+    "name": "Métallurgie Meurthe et Moselle"
+  },
+  {
+    "id": "00914",
+    "name": "Métallurgie Ain"
+  },
+  {
+    "id": "00887",
+    "name": "Métallurgie Eure"
+  },
+  {
+    "id": "00863",
+    "name": "Métallurgie Morbihan Ille et Vilaine"
+  },
+  {
+    "id": "01627",
+    "name": "Métallurgie Puy De Dôme Clermont Ferrand"
+  },
+  {
+    "id": "00829",
+    "name": "Métallurgie Vaucluse"
+  },
+  {
+    "id": "01634",
+    "name": "Métallurgie Cotes d'Armor"
+  },
+  {
+    "id": "02489",
+    "name": "Métallurgie Vendée"
+  },
+  {
+    "id": "01472",
+    "name": "Métallurgie Pas de Calais"
+  },
+  {
+    "id": "00878",
+    "name": "Métallurgie Rhône"
+  },
+  {
+    "id": "03053",
+    "name": "Métallurgie Haute-Saône"
+  },
+  {
+    "id": "02003",
+    "name": "Métallurgie Vosges"
+  },
+  {
+    "id": "01525",
+    "name": "Métallurgie Nord Dunkerque"
+  },
+  {
+    "id": "00965",
+    "name": "Métallurgie Var"
+  },
+  {
+    "id": "00934",
+    "name": "Métallurgie Indre"
+  },
+  {
+    "id": "00836",
+    "name": "Métallurgie Haute Savoie"
+  },
+  {
+    "id": "02980",
+    "name": "Métallurgie Somme"
+  },
+  {
+    "id": "01966",
+    "name": "Métallurgie Loiret"
+  },
+  {
+    "id": "02630",
+    "name": "Métallurgie Bouches du Rhône Alpes Haute Provence"
+  },
+  {
+    "id": "00948",
+    "name": "Métallurgie Orne"
+  },
+  {
+    "id": "00930",
+    "name": "Métallurgie Sarthe"
+  },
+  {
+    "id": "01375",
+    "name": "Métallurgie Doubs"
+  },
+  {
+    "id": "00920",
+    "name": "Métallurgie Vienne"
+  },
+  {
+    "id": "00943",
+    "name": "Métallurgie Calvados"
+  },
+  {
+    "id": "02755",
+    "name": "Métallurgie Belfort Montbéliard"
+  },
+  {
+    "id": "02579",
+    "name": "Métallurgie Loir et Cher"
+  },
+  {
+    "id": "02126",
+    "name": "Métallurgie Nîmes (Gard Lozère)"
+  },
+  {
+    "id": "01164",
+    "name": "Métallurgie Somme Vimeu"
+  },
+  {
+    "id": "01576",
+    "name": "Métallurgie Cher"
+  },
+  {
+    "id": "01274",
+    "name": "Métallurgie Corrèze"
+  },
+  {
+    "id": "01809",
+    "name": "Métallurgie Jura"
+  },
+  {
+    "id": "01626",
+    "name": "Métallurgie Hautes Pyrénées"
+  },
+  {
+    "id": "01572",
+    "name": "Métallurgie Charente"
+  },
+  {
+    "id": "01560",
+    "name": "Métallurgie Alpes Maritimes"
+  },
+  {
+    "id": "01577",
+    "name": "Métallurgie Hérault Aude P-O"
+  },
+  {
+    "id": "00860",
+    "name": "Métallurgie Finistère"
+  },
+  {
+    "id": "00923",
+    "name": "Métallurgie Charente Maritime"
+  },
+  {
+    "id": "01353",
+    "name": "Métallurgie Dordogne"
+  },
+  {
+    "id": "00979",
+    "name": "Métallurgie Seine Maritime Havre"
+  },
+  {
+    "id": "00828",
+    "name": "Métallurgie Manche"
+  },
+  {
+    "id": "01007",
+    "name": "Métallurgie Puy De Dôme Thiers"
+  },
+  {
+    "id": "02294",
+    "name": "Métallurgie Aube"
+  },
+  {
+    "id": "01044",
+    "name": "Horlogerie"
+  },
+  {
+    "id": "01539",
+    "name": "Commerces de détail papeterie bureau informatique"
+  },
+  {
+    "id": "01412",
+    "name": "Installation aéraulique frigorifique et thermique"
+  },
+  {
+    "id": "01404",
+    "name": "Commerce rép tracteurs matériel agricole bât TP"
+  },
+  {
+    "id": "01960",
+    "name": "Métallurgie Lot et Garonne"
+  },
+  {
+    "id": "01090",
+    "name": "Services de l'automobile"
+  },
+  {
+    "id": "01880",
+    "name": "Ameublement - négoce de l'ameublement"
+  },
+  {
+    "id": "01487",
+    "name": "Commerce de détail de l'horlogerie bijouterie"
+  },
+  {
+    "id": "01607",
+    "name": "Industries des jeux jouets et connexes"
+  },
+  {
+    "id": "01557",
+    "name": "Commerce articles de sports équipements loisirs"
+  },
+  {
+    "id": "00993",
+    "name": "Laboratoires de prothèses dentaires"
+  },
+  {
+    "id": "00715",
+    "name": " Instruments à écrire"
+  },
+  {
+    "id": "00275",
+    "name": "Transports aériens personnel au sol"
+  },
+  {
+    "id": "01391",
+    "name": "Manutention et nettoyage aéroports Région parisienne"
+  },
+  {
+    "id": "00538",
+    "name": "Manutention ferroviaire"
+  },
+  {
+    "id": "00779",
+    "name": "Voies ferrées d'intérÃªt local"
+  },
+  {
+    "id": "02272",
+    "name": "Assainissement et maintenance industrielle"
+  },
+  {
+    "id": "01686",
+    "name": "Commerce audiovisuel électronique équipem ménager"
+  },
+  {
+    "id": "01256",
+    "name": "Exploitation d'équipements thermiques cadres"
+  },
+  {
+    "id": "02147",
+    "name": "Entreprises des services d'eau et d'assainissement"
+  },
+  {
+    "id": "02149",
+    "name": "Activités du déchet"
+  },
+  {
+    "id": "03043",
+    "name": "Entreprises de propreté et services associés"
+  },
+  {
+    "id": "01512",
+    "name": "Promotion construction"
+  },
+  {
+    "id": "01527",
+    "name": "Immobilier"
+  },
+  {
+    "id": "01588",
+    "name": "Sociétés coopératives d'H.L.M."
+  },
+  {
+    "id": "02150",
+    "name": "Sociétés anonymes et fondations d'H.L.M."
+  },
+  {
+    "id": "00478",
+    "name": "Sociétés financières"
+  },
+  {
+    "id": "01043",
+    "name": "Gardiens concierges employés d'immeubles"
+  },
+  {
+    "id": "02148",
+    "name": "Télécommunications"
+  },
+  {
+    "id": "05520",
+    "name": "Transports maritimes officiers"
+  },
+  {
+    "id": "01408",
+    "name": "Négoce combustibles solides liquides gazeux"
+  },
+  {
+    "id": "01606",
+    "name": "Bricolage (vente au détail en libre-service)"
+  },
+  {
+    "id": "00652",
+    "name": "Négoce des matériaux de construction cadres"
+  },
+  {
+    "id": "01947",
+    "name": "Négoce de bois d'Oeuvre et produits dérivés"
+  },
+  {
+    "id": "00733",
+    "name": " Détaillants en chaussure"
+  },
+  {
+    "id": "01504",
+    "name": "Poissonnerie"
+  },
+  {
+    "id": "02683",
+    "name": "Portage de presse"
+  },
+  {
+    "id": "02098",
+    "name": "Prestataires de services secteur tertiaire"
+  },
+  {
+    "id": "02121",
+    "name": "Ãdition"
+  },
+  {
+    "id": "02198",
+    "name": "Vente par à distance"
+  },
+  {
+    "id": "02156",
+    "name": "Grands Magasins et magasins Populaires"
+  },
+  {
+    "id": "01383",
+    "name": "Commerce de quincaillerie interrégionale employés"
+  },
+  {
+    "id": "00731",
+    "name": "Commerce de quincaillerie interrégionale cadres"
+  },
+  {
+    "id": "01978",
+    "name": "Fleuristes et animaux familiers"
+  },
+  {
+    "id": "01760",
+    "name": "Jardineries Graineteries"
+  },
+  {
+    "id": "01536",
+    "name": "Distributeurs conseils hors domicile de boissons"
+  },
+  {
+    "id": "03032",
+    "name": "Esthétique cosmétique parfumerie et enseignement"
+  },
+  {
+    "id": "01621",
+    "name": "Répartition pharmaceutique"
+  },
+  {
+    "id": "01982",
+    "name": "Négoce et services médico-techniques"
+  },
+  {
+    "id": "00635",
+    "name": "Négoce en fournitures dentaires"
+  },
+  {
+    "id": "00925",
+    "name": "Commerce de gros des papiers cartons cadres"
+  },
+  {
+    "id": "01000",
+    "name": "Cabinets d'avocats"
+  },
+  {
+    "id": "03205",
+    "name": "Coopératives de consommation"
+  },
+  {
+    "id": "01314",
+    "name": "Succursale d'alimentation gérants"
+  },
+  {
+    "id": "02754",
+    "name": "Magasins prestataires de services de cuisine"
+  },
+  {
+    "id": "03013",
+    "name": "Librairie"
+  },
+  {
+    "id": "03202",
+    "name": "Presse Magazine éditeurs - employés"
+  },
+  {
+    "id": "01996",
+    "name": "Pharmacie d'officine"
+  },
+  {
+    "id": "02128",
+    "name": "Mutualité"
+  },
+  {
+    "id": "03168",
+    "name": "Professions de la photographie"
+  },
+  {
+    "id": "02785",
+    "name": "Organismes des commissaires priseurs judiciaires"
+  },
+  {
+    "id": "02219",
+    "name": "Taxis parisiens salariés"
+  },
+  {
+    "id": "01031",
+    "name": "Associations Familles rurales"
+  },
+  {
+    "id": "01424",
+    "name": "Transports publics urbains de voyageurs"
+  },
+  {
+    "id": "00454",
+    "name": "Remontées mécaniques"
+  },
+  {
+    "id": "05521",
+    "name": "Transports maritimes personnel navigant d'exécution"
+  },
+  {
+    "id": "02972",
+    "name": "Navigation personnel sédentaire"
+  },
+  {
+    "id": "02174",
+    "name": "Navigation intérieure de marchandises sédentaire"
+  },
+  {
+    "id": "01974",
+    "name": "Navigation Intérieure Passagers"
+  },
+  {
+    "id": "01710",
+    "name": "Agences de voyages"
+  },
+  {
+    "id": "00003",
+    "name": "Navigation intérieure de marchandises ouvriers"
+  },
+  {
+    "id": "00200",
+    "name": "Exploitations frigorifiques"
+  },
+  {
+    "id": "02583",
+    "name": "Sociétés concessionnaires exploitantes d'autoroutes"
+  },
+  {
+    "id": "03017",
+    "name": "Ports et manutention CCN unifiée"
+  },
+  {
+    "id": "01182",
+    "name": "Ports de plaisance"
+  },
+  {
+    "id": "00509",
+    "name": "Presse quotidienne Région parisienne cadres administratifs"
+  },
+  {
+    "id": "01611",
+    "name": "Communication écrite directe"
+  },
+  {
+    "id": "02372",
+    "name": "Entreprises de distribution directe"
+  },
+  {
+    "id": "01316",
+    "name": "Organismes de tourisme social et familial"
+  },
+  {
+    "id": "01631",
+    "name": "Hôtellerie de plein Air"
+  },
+  {
+    "id": "02336",
+    "name": "Foyers et services pour jeunes travailleurs"
+  },
+  {
+    "id": "01671",
+    "name": "Maisons d'étudiants"
+  },
+  {
+    "id": "01266",
+    "name": "Restauration de collectivités"
+  },
+  {
+    "id": "02060",
+    "name": "Cafétérias"
+  },
+  {
+    "id": "01790",
+    "name": "Espaces de loisirs d'attractions et culturels"
+  },
+  {
+    "id": "01874",
+    "name": "Presse d'information spécialisée TAM et cadres"
+  },
+  {
+    "id": "01281",
+    "name": "Presse hebdomadaire régionale employés"
+  },
+  {
+    "id": "01871",
+    "name": "Presse d'information spécialisée employés"
+  },
+  {
+    "id": "03201",
+    "name": "Presse Magazine éditeurs - cadres"
+  },
+  {
+    "id": "02642",
+    "name": "Production audiovisuelle"
+  },
+  {
+    "id": "02412",
+    "name": "Production de films d'animation"
+  },
+  {
+    "id": "02717",
+    "name": "Entreprises techniques au service création événement"
+  },
+  {
+    "id": "03097",
+    "name": "Production cinématographique"
+  },
+  {
+    "id": "00892",
+    "name": "Distribution cinématographique cadres agents de m"
+  },
+  {
+    "id": "01307",
+    "name": "Exploitations cinématographiques"
+  },
+  {
+    "id": "03090",
+    "name": "Entreprises privées du spectacle vivant"
+  },
+  {
+    "id": "01285",
+    "name": "Entreprises artistiques et culturelles"
+  },
+  {
+    "id": "02770",
+    "name": "Ãdition phonographique"
+  },
+  {
+    "id": "01922",
+    "name": "Radiodiffusion"
+  },
+  {
+    "id": "02411",
+    "name": "ChaÃ®nes thématiques"
+  },
+  {
+    "id": "01672",
+    "name": "Sociétés d'assurances"
+  },
+  {
+    "id": "02120",
+    "name": "Banques"
+  },
+  {
+    "id": "05560",
+    "name": "Banque Populaire"
+  },
+  {
+    "id": "02931",
+    "name": "Activités de marchés financiers"
+  },
+  {
+    "id": "00653",
+    "name": "Sociétés d'assurances producteurs salariés"
+  },
+  {
+    "id": "01679",
+    "name": "Sociétés d'assurances inspection"
+  },
+  {
+    "id": "00438",
+    "name": "Sociétés d'assurances échelons intermédiaires"
+  },
+  {
+    "id": "01801",
+    "name": "Assistance"
+  },
+  {
+    "id": "02264",
+    "name": "Hospitalisation privée"
+  },
+  {
+    "id": "01147",
+    "name": "Cabinets médicaux"
+  },
+  {
+    "id": "01619",
+    "name": "Cabinets dentaires"
+  },
+  {
+    "id": "02247",
+    "name": "Entreprises de courtage d'assurances réassurances"
+  },
+  {
+    "id": "00787",
+    "name": "Cabinets d'experts comptables"
+  },
+  {
+    "id": "00915",
+    "name": "Expertises évaluations industrielles commerciales"
+  },
+  {
+    "id": "01951",
+    "name": "Cabinets d'expertises en automobiles"
+  },
+  {
+    "id": "02335",
+    "name": "Agences générales d'assurances"
+  },
+  {
+    "id": "01794",
+    "name": "Institutions de retraite complémentaire"
+  },
+  {
+    "id": "02205",
+    "name": "Notariat"
+  },
+  {
+    "id": "01921",
+    "name": "Huissiers de Justice"
+  },
+  {
+    "id": "01850",
+    "name": "Avocats salariés"
+  },
+  {
+    "id": "02706",
+    "name": "Administrateurs & mandataires judiciaires"
+  },
+  {
+    "id": "00240",
+    "name": "Greffes des tribunaux de commerce"
+  },
+  {
+    "id": "03160",
+    "name": "Associations de gestion et de comptabilité"
+  },
+  {
+    "id": "01237",
+    "name": "Centres de gestion agréés"
+  },
+  {
+    "id": "01413",
+    "name": "Travail temporaire permanents"
+  },
+  {
+    "id": "02332",
+    "name": "Entreprises d'architecture"
+  },
+  {
+    "id": "02666",
+    "name": "Conseils d'architecture d'urbanisme et d'environnement"
+  },
+  {
+    "id": "02543",
+    "name": "Cabinets de géomètres-experts"
+  },
+  {
+    "id": "01516",
+    "name": "Organismes de formation"
+  },
+  {
+    "id": "01726",
+    "name": "Ãconomistes de la construction et métreurs"
+  },
+  {
+    "id": "01875",
+    "name": "Cabinets et cliniques vétérinaires"
+  },
+  {
+    "id": "02564",
+    "name": "Vétérinaires praticiens salariés"
+  },
+  {
+    "id": "02511",
+    "name": "Sport"
+  },
+  {
+    "id": "00528",
+    "name": "Blanchisserie Nord Pas de Calais"
+  },
+  {
+    "id": "02596",
+    "name": "Coiffure"
+  },
+  {
+    "id": "00412",
+    "name": "Agences de voyages-guides accompagnateurs"
+  },
+  {
+    "id": "01909",
+    "name": "Organismes de tourisme à but non lucratif"
+  },
+  {
+    "id": "01351",
+    "name": "Prévention et sécurité"
+  },
+  {
+    "id": "01605",
+    "name": "Désinfection dératisation désinsectisation 3D"
+  },
+  {
+    "id": "02691",
+    "name": "Enseignement privé hors contrat"
+  },
+  {
+    "id": "02408",
+    "name": "Ets enseignement privé"
+  },
+  {
+    "id": "02152",
+    "name": "Personnel enseignant formateur des CFA et CFC"
+  },
+  {
+    "id": "00897",
+    "name": "Services de santé au travail interentreprises"
+  },
+  {
+    "id": "00959",
+    "name": "Laboratoires d'analyses médicales"
+  },
+  {
+    "id": "02257",
+    "name": "Casinos"
+  },
+  {
+    "id": "02021",
+    "name": "Golf"
+  },
+  {
+    "id": "05507",
+    "name": "Foot ball administratifs"
+  },
+  {
+    "id": "05526",
+    "name": "Charte du foot ball professionnel"
+  },
+  {
+    "id": "05541",
+    "name": "Rugby professionnel"
+  }
+]
