@@ -82,7 +82,7 @@ const Codes = ({ title, type, color, codes }) => (
   <React.Fragment>
     <ul
       style={{
-        backgroundColor: "#f5f5f5",
+        backgroundColor: "#f6f6f6",
         border: "1px solid silver",
         padding: 10
       }}
