@@ -195,7 +195,10 @@ class CCNBrowser extends React.Component {
         />
         <br />
         {(this.state.result.length && (
-          <div>{this.state.result.length} résultats</div>
+          <div>
+            <br />
+            {this.state.result.length} résultats
+          </div>
         )) ||
           ""}
         <br />
